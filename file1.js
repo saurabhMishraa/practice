@@ -800,4 +800,5 @@ const totalValue = myCart.reduce((productName, product)=>{
 }, 0);
 
 console.log(totalValue);
-
+let a="saurabh"
+console.log(a);
